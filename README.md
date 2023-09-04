@@ -1,6 +1,6 @@
 # Snake Game
 
-Welcome to the Snake Game! This classic arcade-style game is implemented in Python using the Tkinter library. The game offers hours of fun as you navigate a snake around the screen, collecting food to grow longer while avoiding collisions with the walls and yourself.
+Welcome to the Snake Game! This classic arcade-style game is implemented in Python using the Turtle library. The game offers hours of fun as you navigate a snake around the screen, collecting food to grow longer while avoiding collisions with the walls and yourself.
 
 ## Game Components
 
@@ -37,7 +37,7 @@ The Snake Game consists of several modules, each responsible for different aspec
 ## Requirements
 
 - Python 3.x
-- Tkinter (included in most Python installations)
+- Turtle graphics library (usually included with Python)
 
 ## Installation
 
@@ -45,7 +45,4 @@ The Snake Game consists of several modules, each responsible for different aspec
 
 2. Run `main.py` to start the game.
 
-
-
 Enjoy the game and have fun collecting those tasty dots!
-
